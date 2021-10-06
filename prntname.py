@@ -1,4 +1,5 @@
-
+#This code displays your name in an awesome way
+#ENTER YOUR NAME
 name = input("Enter your name: \n\n")
 
 for c in name:
